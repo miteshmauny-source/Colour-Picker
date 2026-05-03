@@ -5,11 +5,11 @@ user's choice. The application provide HEX values in realtime and provides a use
 
 ## Features
 
-⭐ Shows colour in real-time <br>
-⭐ Provides HEX code of selected colour <br>
-⭐ Copy HEX value with just a click <br>
-⭐ Pin the appliction on top <br>
-⭐ Add and view colour in favourites section
+⭐ Shows colour in **real-time** <br>
+⭐ Provides **HEX code** of selected colour <br>
+⭐ **Copy HEX code** with just a click <br>
+⭐ **Pin** the appliction on top <br>
+⭐ **Add & view** colour in favourites section
 
 ## Images
 
@@ -28,3 +28,12 @@ git clone https://github.com/miteshmauny12/Colour-Picker.git
 ```
 2. Open the directory **Colour-Picker** <br>
 3. Run **Colour Picker v1.8.exe**
+
+## Future Updates
+
+🔎 Add search feature in Favourites
+
+## Author
+
+**Mitesh Mauny**
+![LinkIn]
