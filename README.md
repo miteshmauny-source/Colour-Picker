@@ -35,5 +35,5 @@ git clone https://github.com/miteshmauny12/Colour-Picker.git
 
 ## Author
 
-**Mitesh Mauny**
-![LinkIn]
+**Mitesh Mauny** <br>
+LinkIn: https://www.linkedin.com/in/mitesh-mauny-101173407
