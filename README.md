@@ -13,7 +13,16 @@ user's choice. The application provide HEX values in realtime and provides a use
 
 ## Images
 
-![image 1]()
+![image 1](https://github.com/miteshmauny12/Colour-Picker/blob/7bb0a24200588ae40411389c27018850d2e3b637/Pics/ss1.png)
+
+
+![image 2](https://github.com/miteshmauny12/Colour-Picker/blob/7bb0a24200588ae40411389c27018850d2e3b637/Pics/ss2.png)
+
+
+![image 3](https://github.com/miteshmauny12/Colour-Picker/blob/7bb0a24200588ae40411389c27018850d2e3b637/Pics/ss3.png)
+
+
+![image 4](https://github.com/miteshmauny12/Colour-Picker/blob/7bb0a24200588ae40411389c27018850d2e3b637/Pics/ss4.png)
 
 ## Language and Packages Used
 
