@@ -31,12 +31,10 @@ user's choice. The application provide HEX values in realtime and provides a use
 
 ## Installation and setup
 
-1. Clone the repository: 
-```Bash
-git clone https://github.com/miteshmauny12/Colour-Picker.git
-```
-2. Open the directory **Colour-Picker** <br>
-3. Run **Colour Picker v1.8.exe**
+1. Download the **zip file** of this repository <br>
+2. **Unzip** the file <br>
+3. Open the directory **Colour-Picker** <br>
+4. Run **Colour Picker v1.8.exe**
 
 ## Future Updates
 
